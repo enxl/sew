@@ -1,2 +1,2 @@
-# sew
-Repositorio para la asignatura SEW
+# sew-MotoGP
+Repositorio para el trabajo de la asignatura SEW
